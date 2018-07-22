@@ -6,7 +6,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "start": "node start.js",
+    "start": "node lib/flow",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -32,6 +32,7 @@
     "lodash": "^4.17.10",
     "lowdb": "^1.0.0",
     "prettyjson": "^1.2.1",
-    "randomstring": "^1.1.5"
+    "randomstring": "^1.1.5",
+    "xstate": "^3.3.3"
   }
 }
