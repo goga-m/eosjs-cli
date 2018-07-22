@@ -20,6 +20,9 @@
   ],
   "author": "Goga Mamoulasvili",
   "license": "ISC",
+  "bin": {
+    "eosjs-cli": "./cli.js"
+  },
   "bugs": {
     "url": "https://github.com/goga-m/eosjs-cli/issues"
   },
