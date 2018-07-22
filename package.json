@@ -6,7 +6,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "start": "node lib/flow",
+    "start": "node start.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
