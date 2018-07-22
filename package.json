@@ -1,6 +1,6 @@
 {
   "name": "eosjs-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wizard-like command line interface to interact with eos blockchain",
   "directories": {
     "lib": "lib"
