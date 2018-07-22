@@ -34,8 +34,15 @@
     "inquirer": "^6.0.0",
     "lodash": "^4.17.10",
     "lowdb": "^1.0.0",
+    "module-alias": "^2.1.0",
     "prettyjson": "^1.2.1",
     "randomstring": "^1.1.5",
     "xstate": "^3.3.3"
+  },
+  "_moduleAliases": {
+    "@lib": "lib",
+    "@config": "config",
+    "@dbPath": "db.json",
+    "@static": "static"
   }
 }
