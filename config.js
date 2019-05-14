@@ -3,8 +3,8 @@
 module.exports = {
   // Eosjs configuration options
   eosConfig: {
-    chainId: '038f4b0fc8ff18a4f0842a8f0564611f6e96e8535901dd45e43ac8691a1c4dca', // 32 byte (64 char) hex string
-    httpEndpoint: 'http://jungle.cryptolions.io:18888',
+    chainId: 'e70aaab8997e1dfce58fbfac80cbbb8fecec7b99cf982a9444273cbc64c41473', // 32 byte (64 char) hex string
+    httpEndpoint: 'https://jungle2.cryptolions.io:443',
     expireInSeconds: 60,
     verbose: true,
     broadcast: true,
