@@ -34,7 +34,7 @@
     "eosjs": "^15.0.6",
     "eosjs-api": "^7.0.3",
     "inquirer": "^6.2.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.11",
     "log-symbols": "^2.2.0",
     "lowdb": "^1.0.0",
     "module-alias": "^2.1.0",
